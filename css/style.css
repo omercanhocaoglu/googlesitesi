@@ -1,0 +1,79 @@
+.header {
+    text-align: center;
+    
+}
+
+
+
+.sectiondiv1 {
+    text-align: center;
+    background-color: #EEEEEE;
+    width: 88%;
+    margin-left: 60px;
+    height: 70px;
+    
+}
+
+.searchinput {
+    width: 300px;
+    text-align: center;
+}
+
+.place2 {
+
+    
+    width: 89.6%;
+    margin-left: 60px;
+    height: 90px;
+    
+}
+
+
+.specialsearch { 
+   
+    float: left;
+    background-color: #7EE5DA;
+    width: 40%;
+    height: 80px;
+    text-align: center;
+    
+    
+    
+
+}
+
+
+.helpgoogle {
+   
+    float: left;
+    background-color: #70CCC2;
+    width: 18%;
+    height: 80px;
+    text-align: center;
+    font-size: small;
+    margin: 0 1px 0 1px;
+    
+   
+}
+
+
+.getgoogle {
+   
+    float: left;
+    background-color: #62B3AA;
+    width: 40%; 
+    height: 80px;
+    text-align: center;
+    font-size: small;
+    
+    
+
+
+
+}
+
+
+
+.footer {
+    text-align: center;
+}
